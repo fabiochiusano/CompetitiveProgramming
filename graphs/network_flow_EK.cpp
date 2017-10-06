@@ -1,7 +1,8 @@
 #include "competitive.h"
 
 /*
-*
+* Max network flow with Edmonds-Karp algorithm. O(V*E^2).
+* Can also be used to solve Maximum Cardinality Bipartite Matching MCBM.
 */
 
 USESTD;
